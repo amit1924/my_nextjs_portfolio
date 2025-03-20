@@ -97,7 +97,7 @@ const HomeSection: React.FC<HomeSectionProps> = ({ id = "home" }) => {
           className="text-4xl md:text-6xl lg:text-7xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400"
           variants={itemVariants}
         >
-          John Developer
+          Amit Kumar
         </motion.h1>
 
         <motion.h3
