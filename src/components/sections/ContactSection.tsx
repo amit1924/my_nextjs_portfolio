@@ -183,7 +183,7 @@ const ContactSection: React.FC<ContactSectionProps> = ({ id = "contact" }) => {
                     href="mailto: amit192400@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    contact@example.com
+                    amit192400@gmail.com
                   </a>
                 </div>
               </div>
