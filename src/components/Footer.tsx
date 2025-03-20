@@ -23,7 +23,7 @@ const Footer = ({
     twitter: "https://twitter.com",
     email: "mailto:contact@example.com",
   },
-  copyrightName = "Your Name",
+  copyrightName = "Amit Kumar", // Updated from "Your Name" to "Amit Kumar"
   year = new Date().getFullYear(),
 }: FooterProps) => {
   return (
