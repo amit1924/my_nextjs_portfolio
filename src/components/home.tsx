@@ -74,7 +74,7 @@ const Home: React.FC = () => {
           twitter: "https://twitter.com",
           email: "mailto:contact@example.com",
         }}
-        copyrightName="John Developer"
+        copyrightName="Amit Kumar"
       />
     </div>
   );
