@@ -35,7 +35,7 @@ const ProjectsSection = ({
       image:
         "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=80",
       technologies: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
-      demoUrl: "https://example.com",
+      demoUrl: "https://netxjs-portfolio-eosin.vercel.app/login"
       repoUrl: "https://github.com/example/portfolio",
       images: [
         "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80",
@@ -45,15 +45,15 @@ const ProjectsSection = ({
     },
     {
       id: "project-2",
-      title: "E-commerce Dashboard",
+      title: "E-commerce website",
       description:
-        "An admin dashboard for managing e-commerce products and orders",
+        "An e-commerce website for managing e-commerce products and orders",
       longDescription:
-        "A comprehensive admin dashboard for e-commerce businesses to manage products, track orders, and analyze sales data. Built with React, Redux, and Chart.js for data visualization.",
+        "A comprehensive admin dashboard for e-commerce businesses to manage products, track orders, and analyze sales data. Built with React and zustand",
       image:
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80",
       technologies: ["React", "Redux", "Chart.js", "Material UI"],
-      demoUrl: "https://example.com/dashboard",
+      demoUrl: "https://digital-ecommerce-frontend.vercel.app/"
       repoUrl: "https://github.com/example/dashboard",
       images: [
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
@@ -62,14 +62,14 @@ const ProjectsSection = ({
     },
     {
       id: "project-3",
-      title: "Weather App",
-      description: "A weather application that provides real-time forecasts",
+      title: "AI Assistant App",
+      description: "Ask anything to this ai assistant for generating image ,query ,real time weather updates",
       longDescription:
-        "A weather application that provides real-time forecasts for any location. Features include current conditions, 7-day forecast, and interactive maps. Built with React and OpenWeather API.",
+        "An AI  Assistant that provides real-time interaction for any queries. Features include weather conditions, generating images, and interactive maps. Built with React and used OpenWeather API.",
       image:
         "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=600&q=80",
       technologies: ["React", "OpenWeather API", "Leaflet Maps", "CSS Modules"],
-      demoUrl: "https://example.com/weather",
+      demoUrl: "https://ai-app-swart-zeta.vercel.app/"
       repoUrl: "https://github.com/example/weather-app",
       images: [
         "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=800&q=80",
