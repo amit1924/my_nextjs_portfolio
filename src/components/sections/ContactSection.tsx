@@ -180,7 +180,7 @@ const ContactSection: React.FC<ContactSectionProps> = ({ id = "contact" }) => {
                 <div>
                   <h4 className="font-medium">Email</h4>
                   <a
-                    href="mailto:contact@example.com"
+                    href="mailto: amit192400@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
                     contact@example.com
@@ -195,7 +195,7 @@ const ContactSection: React.FC<ContactSectionProps> = ({ id = "contact" }) => {
                     href="tel:+1234567890"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +1 (234) 567-890
+                    +918340616588
                   </a>
                 </div>
               </div>
@@ -204,7 +204,7 @@ const ContactSection: React.FC<ContactSectionProps> = ({ id = "contact" }) => {
                 <div>
                   <h4 className="font-medium">Location</h4>
                   <p className="text-muted-foreground">
-                    San Francisco, California
+                    Patna, India
                   </p>
                 </div>
               </div>
